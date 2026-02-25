@@ -38,10 +38,11 @@ With my background in digital art and tech-driven environments, I bring strong t
 - TryHackMe SOC Level 1 Path
 
 ## Projects
-- Brute Force Detection Lab
-- Windows Event Log Analysis
+
+- <a href="https://github.com/KarizmaP/Brute-Force-Detection-Lab/tree/main">Brute-Force-Detection-Lab</a>
 - Phishing Email Investigation
 - SIEM Alert Investigation
+- Windows Event Log Analysis
 - Network Traffic Analysis
 - Linux SSH Log Analysis
 - Incident Response Case Study
