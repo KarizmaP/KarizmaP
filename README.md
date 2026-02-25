@@ -41,7 +41,7 @@ With my background in digital art and tech-driven environments, I bring strong t
 
 - <a href="https://github.com/KarizmaP/Brute-Force-Detection-Lab/tree/main">Brute-Force-Detection-Lab</a>
 - <a href="https://github.com/KarizmaP/Phishing-Email-Investigation/tree/main">Phishing-Email-Investigation</a>
-- SIEM Alert Investigation
+- <a href="https://github.com/KarizmaP/SIEM-Alert-Investigation/tree/main">SIEM-Alert-Investigation</a>
 - Windows Event Log Analysis
 - Network Traffic Analysis
 - Linux SSH Log Analysis
